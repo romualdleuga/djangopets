@@ -1,2 +1,2 @@
 # wisdompet
-My Django application
+My Django application in the virtual env
