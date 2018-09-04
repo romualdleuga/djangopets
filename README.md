@@ -1,0 +1,2 @@
+# wisdompet
+My Django application
